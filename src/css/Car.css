@@ -1,0 +1,18 @@
+#head{
+    display: inline;
+    color:#d7d2cc;
+}
+
+.list{
+    display: flex;
+    column-gap: 2rem;
+    row-gap: 2rem;
+}
+
+button{
+    width:200px;
+    height:40px;
+    background-color: #acbb78;
+    color:#b6fbff;
+    cursor: pointer;
+}
